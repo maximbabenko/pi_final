@@ -1,5 +1,5 @@
-from transformers import pipeline
 import streamlit as st
+from transformers import pipeline
 
 for_test = 'Success'
 model_ckpt = "papluca/xlm-roberta-base-language-detection"
